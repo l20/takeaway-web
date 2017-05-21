@@ -29,7 +29,7 @@ npm run build
 
 ## demo online
 
-[http://food.alanwong.tech/](http://food.alanwong.tech/):
+[http://food.alanwong.tech/](http://food.alanwong.tech/)
 
 ## Screenshot
 
