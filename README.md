@@ -35,8 +35,9 @@ node start.js
 
 ## demo online
 
-[http://food.alanwong.tech/](http://food.alanwong.tech/)
-
+>
+[http://food.alanwong.tech](http://food.alanwong.tech/)
+<a href="http://food.alanwong.tech" target="_blank">http://food.alanwong.tech</a>
 ## Screenshot
 
 #### home page & head
