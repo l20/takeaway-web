@@ -51,4 +51,4 @@ router.map({
 });
 
 router.start(app, '#app');
-// router.go('/goods');
+router.go('/goods');
