@@ -4,12 +4,19 @@
 
 ## Technology stack
 :wrench: vue  
+
 :wrench: vue-router  
+
 :wrench: webpack  
+
 :wrench: ES6  
+
 :wrench: vue-resource  
+
 :wrench: stylus  
+
 :wrench: better-scroll
+
 
 ## Build Setup
 
