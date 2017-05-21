@@ -35,9 +35,10 @@ node start.js
 
 ## demo online
 
->
+> 处女座、强迫症提示：要在新窗口打开连接的请手动使用鼠标右键打开新窗口方式打开连接，因为我还不知道在markdown中如何以新窗口方式打开连接，知道的求告知。:kissing_heart:
+
 [http://food.alanwong.tech](http://food.alanwong.tech/)
-<a href="http://food.alanwong.tech" target="_blank">http://food.alanwong.tech</a>
+
 ## Screenshot
 
 #### home page & head
