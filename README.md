@@ -1,9 +1,9 @@
-## 基于vue的外卖web APP
+## vue 1.x 仿外卖APP
 
 >展示的是一个外卖app的单个商家商品展示，实际开发以此demo为商家模板，根据城市、地址等作为路由入口，获取城市商家数据输出到模板。
 
 ## Technology stack
-:wrench: vue  
+:wrench: vue 1.x  
 
 :wrench: vue-router  
 
