@@ -1,6 +1,6 @@
 ## 基于vue的外卖web APP
 
-> 从jQuery跨越到MVXX框架学习花了很长一段时间，因为这是一个观念上的转变问题，因为熟悉了指令式的jq开发一下跨入框架未免有些反应不过来，所以在长期的学习摸索有了一个感性认识之后，为了巩固所学于是才有这个demo，说它是demo不过分，因为没有使用vuex之类的来构建大型应用，组件间通信都是evenbus。而且模拟后端的数据过于简洁，不过总算是满足平时的web业务代码开发需求的，demo展示的是一个外卖app的单个商家商品展示，实际开发以此demo为商家模板，根据城市、地址等作为路由入口，获取城市商家数据输出到模板。
+>展示的是一个外卖app的单个商家商品展示，实际开发以此demo为商家模板，根据城市、地址等作为路由入口，获取城市商家数据输出到模板。
 
 ## Technology stack
 :wrench: vue  
@@ -50,7 +50,7 @@ node start.js
 
 > 处女座、强迫症提示：要在新窗口打开连接的请手动使用鼠标右键打开新窗口方式打开连接，因为我还不知道在markdown中如何以新窗口方式打开连接，知道的求告知。:kissing_heart:
 
-:point_right:[http://food.alanwong.tech](http://food.alanwong.tech/)
+:point_right:[在线演示](http://fd.alphagoo.cn)
 
 ## Screenshot
 
